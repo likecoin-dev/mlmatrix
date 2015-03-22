@@ -6,8 +6,9 @@ c.height = window.innerHeight;
 c.width = window.innerWidth;
 
 //Malayalam characters - taken from the unicode charset
-var malayalam = "കഖഗഘങചഛജഝഞടഠഡഢണതഥദധനപഫബഭമയരലവശഷസഹളഷറഅആഇഈഉഊഋഎഏഒ";
-//converting the string into an array of single characters
+//var malayalam = "കഖഗഘങചഛജഝഞടഠഡഢണതഥദധനപഫബഭമയരലവശഷസഹളഷറഅആഇഈഉഊഋഎഏഒ";
+var malayalam = "OPI{POIPOPIOPUIGPOIKropdigks'peoritoID{(**(^(*&^TPUSER{HJSD:LKJ<NM><<BVMNVCXBHGS!@#$%^&*(O)P_:DFCGHJ LKML?ZTRETYG:FHGKJFKJKHF:KJYDO*(FYVOCY"
+//he string into an array of single characters
 malayalam = malayalam.split("");
 
 var font_size = 20;
